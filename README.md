@@ -241,7 +241,7 @@ MIT License - see LICENSE file for details
 
 Samuel Hounsou
 - LinkedIn: www.linkedin.com/in/benny-hounsou-00a267374
-- GitHub: @hounsoubenny-cyber(https://github.com/yourusername)
+- GitHub: https://github.com/hounsoubenny-cyber/
 
 ## 🙏 Acknowledgments
 
