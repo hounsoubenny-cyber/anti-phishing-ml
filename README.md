@@ -240,8 +240,8 @@ MIT License - see LICENSE file for details
 ## 👤 Author
 
 Samuel Hounsou
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: www.linkedin.com/in/benny-hounsou-00a267374
+- GitHub: @hounsoubenny-cyber(https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -251,7 +251,7 @@ Samuel Hounsou
 
 ## 📧 Contact
 
-For questions or collaboration: your.email@example.com
+For questions or collaboration: hounsoubenny@gmail.com
 
 ---
 
