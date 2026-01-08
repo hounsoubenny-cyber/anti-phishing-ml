@@ -14,7 +14,15 @@ Machine Learning system for detecting phishing URLs using ensemble methods and a
 [[28002   206]
  [  187 27831]]
 ```
+## 📸 Démo en action
 
+### Interface CLI
+![Demo CLI](demo_cli.png)
+![Demo CLI](demo_video.webm)
+
+### Détection de phishing en temps réel
+![Demo](demo_image.png)
+![Demo CLI](demo_video.webm)
 ## 🚀 Features
 
 - **Ensemble Learning**: Stacking classifier combining XGBoost, HistGradientBoosting, and Random Forest
@@ -42,7 +50,7 @@ The model analyzes 19 URL characteristics:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/anti-phishing-ml.git
+git clone https://github.com/hounsoubenny-cyber/anti-phishing-ml.git
 cd anti-phishing-ml
 
 # Install dependencies
