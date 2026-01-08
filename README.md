@@ -21,7 +21,7 @@ Machine Learning system for detecting phishing URLs using ensemble methods and a
 ![Demo](demo_video.webm)
 
 ### Détection de phishing en temps réel
-![Demo](demo_video.webm)
+![Demo Vidéo](demo_video.webm)
 ## 🚀 Features
 
 - **Ensemble Learning**: Stacking classifier combining XGBoost, HistGradientBoosting, and Random Forest
